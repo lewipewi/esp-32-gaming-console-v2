@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5ab1354e-de50-412d-a2d0-047e6e5cf44e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 131.572 27.94)
+		(size 56.642 54.102)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "024e8774-50cc-46f5-91c7-71a7f8b061c1")
+		(property "Sheetname" "MCU"
+			(at 131.572 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 131.572 82.6266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emulator_console_v2"
+				(path "/5ab1354e-de50-412d-a2d0-047e6e5cf44e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.88 88.9)
+		(size 43.18 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "444e642f-bae5-4acd-87ae-fbe623ab9703")
+		(property "Sheetname" "BUTTONS"
+			(at 182.88 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUTTONs.kicad_sch"
+			(at 182.88 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emulator_console_v2"
+				(path "/5ab1354e-de50-412d-a2d0-047e6e5cf44e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 84.582)
+		(size 46.99 28.956)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a5e20c9-f08f-43a8-bdb8-aa389e2fb35d")
+		(property "Sheetname" "DISPLAY AND STORAGE"
+			(at 41.91 83.8704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display_storage.kicad_sch"
+			(at 41.91 114.1226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emulator_console_v2"
+				(path "/5ab1354e-de50-412d-a2d0-047e6e5cf44e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.998 95.25)
+		(size 46.228 27.686)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4beb1de-9e0a-4763-a5a4-2a5ecce57910")
+		(property "Sheetname" "AUDIO"
+			(at 110.998 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO.kicad_sch"
+			(at 110.998 123.5206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emulator_console_v2"
+				(path "/5ab1354e-de50-412d-a2d0-047e6e5cf44e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.972 21.844)
+		(size 50.8 28.448)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3fe0799-0183-4e0e-b1a8-ac792d1be2ef")
+		(property "Sheetname" "POWER"
+			(at 29.972 21.1324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 29.972 50.8766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emulator_console_v2"
+				(path "/5ab1354e-de50-412d-a2d0-047e6e5cf44e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
